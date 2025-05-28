@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+header {
+    padding: 10px;
+    color: white;
+    height: 110px;
+}
+.popular {
+    background-color: orange;
+    padding: 10px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.strel {
+    background-color: orange;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.avia {
+    background-color: orange;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+  
+  p {
+    position: relative;
+    left: 450px;
+    bottom: 140px;
+    font-size: 37px;
+  }
+
+.q13 {
+    width: 200px;
+    font-size: 30px; 
+    position: relative;
+    left: 20px;
+    top: 50px;
+
+}
+
+footer {
+    height: 100px;
+    color: white;
+    margin-top: 50px;
+}
+
+.q12 {
+    position: relative;
+    left: 50px;
+    bottom: 20px;
+    font-size: 20px;
+}
+
+.qw {
+    width: 350px;
+    height: 300px;
+}
